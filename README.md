@@ -17,7 +17,7 @@ To minimise risk and act responsibly:
 
 For licensing enquiries (for example, if you would like to work with us to license music for use in Rhythia), please contact:
 
-- **Email:** `rhythiaa@gmail.com`
+- **Email:** `support@rhythia.com`
 
 ---
 
@@ -111,7 +111,7 @@ The precise handling and timeline may vary and remains at Rhythia’s sole discr
 
 Please direct DMCA notices and counter-notices to:
 
-- **Email:** `rhythiaa@gmail.com`  
+- **Email:** `support@rhythia.com`  
   (48-hour response guaranteed)
 
 When contacting us, please clearly label your message as a **DMCA Notice** or **DMCA Counter-Notice**, as appropriate, and include all required information to avoid delays.
